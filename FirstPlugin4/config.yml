@@ -1,0 +1,14 @@
+lobby:
+  x: 1.0
+  y: 80.0
+  z: 1.0
+  world: "11"
+potion:
+  a:
+    effect: speed
+    duration: 180
+    amplifier: 10
+  b:
+    effect: jump
+    duration: 180
+    amplifier: 10

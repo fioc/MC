@@ -1,0 +1,9 @@
+name: FirstPlugin4
+description: teleports player to lobby and gives potion effects
+version: 4.0.0
+main: me.ksctdd.FirstPlugin4.Main
+commands:
+  lobby: 
+    aliases: [hub] 
+  test:
+    aliases: [test]   
